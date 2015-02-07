@@ -1,0 +1,30 @@
+date: "2015-02-06 14:16:55.408"
+argv: node /usr/local/bin/hexo s
+os: Darwin 14.0.0 darwin x64
+versions:
+  http_parser: "1.0"
+  node: 0.10.33
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.29
+  zlib: 1.2.3
+  modules: "11"
+  openssl: 1.0.1j
+  hexo: 2.8.3
+---
+[debug] 14:16:55.157 Config file loaded from /Users/TingPan/serverIt/_config.yml[debug] 14:16:55.159 Version info checked successfully[debug] 14:16:55.175 Loading database.[debug] 14:16:55.212 Processed: draft.md (2ms)[debug] 14:16:55.212 Processed: page.md (1ms)[debug] 14:16:55.214 Processed: photo.md (3ms)[debug] 14:16:55.214 Processed: post.md (3ms)[debug] 14:16:55.235 Plugin loaded successfully: hexo-renderer-ejs[debug] 14:16:55.248 Plugin loaded successfully: hexo-renderer-marked[debug] 14:16:55.358 Plugin loaded successfully: hexo-renderer-stylus[debug] 14:16:55.359 Script load successfully: fancybox.js[debug] 14:16:55.374 Processed: _posts/hello-world.md (5ms)[debug] 14:16:55.385 Processed: source/images/icon-reorder@2x.png (0ms)[debug] 14:16:55.386 Processed: source/images/miaomi.jpg (1ms)[debug] 14:16:55.386 Processed: source/js/script.js (0ms)[debug] 14:16:55.386 Processed: source/css/style.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_bass/bass.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_bass/syntax.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_bass/variables.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_partial/archive.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_partial/article-gallery.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_partial/article-nav.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_partial/article.styl (0ms)[debug] 14:16:55.386 Processed: source/css/_partial/footer.styl (0ms)[debug] 14:16:55.387 Processed: source/css/_partial/header.styl (1ms)[debug] 14:16:55.387 Processed: source/css/_partial/rwd.styl (0ms)[debug] 14:16:55.387 Processed: source/css/_partial/test.css (0ms)[debug] 14:16:55.387 Processed: source/css/fonts/FontAwesome.otf (0ms)[debug] 14:16:55.387 Processed: source/css/fonts/fontawesome-webfont.eot (0ms)[debug] 14:16:55.387 Processed: source/css/fonts/fontawesome-webfont.svg (0ms)[debug] 14:16:55.387 Processed: source/css/fonts/fontawesome-webfont.ttf (0ms)[debug] 14:16:55.387 Processed: source/css/fonts/fontawesome-webfont.woff (0ms)[debug] 14:16:55.387 Processed: source/fancybox/blank.gif (0ms)[debug] 14:16:55.387 Processed: source/fancybox/fancybox_loading.gif (0ms)[debug] 14:16:55.388 Processed: source/fancybox/fancybox_loading@2x.gif (1ms)[debug] 14:16:55.388 Processed: source/fancybox/fancybox_overlay.png (0ms)[debug] 14:16:55.388 Processed: source/fancybox/fancybox_sprite.png (0ms)[debug] 14:16:55.388 Processed: source/fancybox/fancybox_sprite@2x.png (0ms)[debug] 14:16:55.388 Processed: source/fancybox/jquery.fancybox.css (0ms)[debug] 14:16:55.388 Processed: source/fancybox/jquery.fancybox.js (0ms)[debug] 14:16:55.388 Processed: source/fancybox/jquery.fancybox.pack.js (0ms)[debug] 14:16:55.388 Processed: source/fancybox/helpers/fancybox_buttons.png (0ms)[debug] 14:16:55.388 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css (0ms)[debug] 14:16:55.388 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js (0ms)[debug] 14:16:55.389 Processed: source/fancybox/helpers/jquery.fancybox-media.js (1ms)[debug] 14:16:55.389 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css (0ms)[debug] 14:16:55.389 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js (0ms)[debug] 14:16:55.392 Processed: layout/archive.ejs (9ms)[debug] 14:16:55.392 Processed: layout/category.ejs (9ms)[debug] 14:16:55.392 Processed: layout/index.ejs (9ms)[debug] 14:16:55.392 Processed: layout/page.ejs (8ms)[debug] 14:16:55.392 Processed: layout/layout.ejs (8ms)[debug] 14:16:55.392 Processed: layout/tag.ejs (8ms)[debug] 14:16:55.392 Processed: layout/post.ejs (8ms)[debug] 14:16:55.392 Processed: layout/_partial/after-footer.ejs (8ms)[debug] 14:16:55.392 Processed: layout/_partial/archive.ejs (8ms)[debug] 14:16:55.392 Processed: layout/_partial/article.ejs (8ms)[debug] 14:16:55.392 Processed: layout/_partial/footer.ejs (8ms)[debug] 14:16:55.392 Processed: layout/_partial/google-analytics.ejs (8ms)[debug] 14:16:55.392 Processed: layout/_partial/head.ejs (8ms)[debug] 14:16:55.392 Processed: layout/_partial/header.ejs (7ms)[debug] 14:16:55.392 Processed: layout/_partial/post/category.ejs (7ms)[debug] 14:16:55.392 Processed: layout/_partial/post/date.ejs (7ms)[debug] 14:16:55.392 Processed: layout/_partial/post/gallery.ejs (7ms)[debug] 14:16:55.392 Processed: layout/_partial/post/nav.ejs (7ms)[debug] 14:16:55.392 Processed: layout/_partial/post/tag.ejs (7ms)[debug] 14:16:55.392 Processed: layout/_partial/post/title.ejs (7ms)[error] 14:16:55.394 { name: 'HexoError',
+  reason: 'can not read a block mapping entry; a multiline key may not be an implicit key',
+  mark: 
+   { name: null,
+     buffer: '# Header\nmenu: \n  Home: /\n  Games: /\n  Docs: /\n  API:/\n  rss: false\n\n# Content\nexcerpt_link: Read More\nfancybox: true\n\n# Miscellaneous\ngoogle_analytics:\nfavicon: /favicon.png\n\u0000',
+     position: 60,
+     line: 6,
+     column: 5 },
+  message: 'Process failed: _config.yml',
+  domain: 
+   { domain: null,
+     _events: { error: [Function] },
+     _maxListeners: 10,
+     members: [ [Object] ] },
+  domainThrown: true,
+  stack: undefined }
