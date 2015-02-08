@@ -5,3 +5,5 @@
 
 * Start Hexo
 ```hexo s```
+
+* [Hexo](http://hexo.io/)
