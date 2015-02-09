@@ -1,0 +1,32 @@
+
+<div class="slogen">
+	<img width="200px" class="slogen-pic"src="/logo.png">
+	<h1>
+		ServeIt
+	</h1>
+	<h2>
+		Easy Multi-Player Game Framework.
+	</h2>
+	<p>
+		To give the mobile devices the ability to host a server.
+		Build your own game. Share your game and enjoy playing with your friends
+	</p>
+	<input type="button" value="Get Games">
+</div>
+<div class="slogen-pics">
+	<h1>Develop game</h1>
+	<div class="pic-contain">
+	<img id="pic1" class="slogen-pic"src="/develop.png">
+	</div>
+	<h1>Host game</h1>
+	<div class="pic-contain">
+	<img id="pic2" class="slogen-pic"src="/host.png">
+	</div>
+	<h1>Join game</h1>
+	<div class="pic-contain">
+	<img id="pic3" class="slogen-pic"src="/join.png">
+	</div>
+</div>
+<div id="test">
+	false
+</div>

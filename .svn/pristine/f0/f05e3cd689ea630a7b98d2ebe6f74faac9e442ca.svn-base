@@ -1,0 +1,13 @@
+<%- partial('_partial/head') %>
+<body>
+<hr id="topline">
+  <div id="container">
+    <%- partial('_partial/header') %>
+    <div id="main">
+      <%- body %>
+    </div>
+    <%- partial('_partial/footer') %>
+    <%- partial('_partial/after-footer') %>
+  </div>
+</body>
+</html>

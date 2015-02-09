@@ -1,0 +1,50 @@
+.slogen
+	text-align: center
+	padding: 3em 0
+
+	h1
+		font-weight:normal
+		font-size: 500%
+		margin: 0.1em 0 0.5em 0
+	h2
+		color:#777
+		font-size: 200%
+		margin-bottom: 0.5em
+	p
+		color:#777
+		font-size 150%
+		padding 0 6em
+
+	input
+		outline:0
+		padding: 1em 3em
+		border-radius: 5px
+		border: solid 1px
+		background:none
+		margin: 3em 0
+		font-size: 150%
+		font-weight: normal
+		transition: color, 0.3s
+		transition: border-color, 0.3s
+		&:hover
+			color: color-link
+			border-color: color-link
+
+.slogen-pics
+	margin-left:auto
+	margin-right:auto
+	width:60%
+	
+	h1
+		color:#777
+		margin: 2em 0 2em
+		font-size:150%
+		font-weight:normal
+	.slogen-pic
+		width:100%
+	.pic-contain
+		height:200px
+
+#pic1,#pic2,#pic3
+	opacity:0
+	padding-top:50px
