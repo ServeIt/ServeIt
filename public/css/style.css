@@ -623,22 +623,43 @@ pre .deletion {
   margin-left: auto;
   margin-right: auto;
 }
-#main,
+.sidenav {
+  width: 20%;
+  float: left;
+  margin-right: 5%;
+  font-size: 120%;
+  margin-bottom: 5px;
+}
+.sidenav h1 {
+  font-size: 100%;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+.sidenav p {
+  font-size: 80%;
+  margin-bottom: 5px;
+}
+@media screen and (max-width: 559px) {
+  .sidenav {
+    visibility: hidden;
+  }
+}
+#main {
+  width: 75%;
+  float: left;
+}
 .post {
   margin-bottom: 5em;
   position: relative;
 }
-#main .entry-header,
 .post .entry-header {
   margin-bottom: 2em;
 }
-#main .entry-title,
 .post .entry-title {
   font-weight: bold;
   font-size: 220%;
   margin: 0;
 }
-#main .entry-title:hover,
 .post .entry-title:hover {
   color: #222;
 }
@@ -677,13 +698,11 @@ pre .deletion {
 }
 .entry-meta-header .meta-elements {
   display: block;
-  margin-bottom: 0.5em;
+margin-bottom
 }
-.entry-meta-header .date {
-  font-weight: bold;
-  font-size: 120%;
-}
-.entry-meta-header .date a {
+.entry-meta-header .meta-elements .date,
+.entry-meta-header .meta-elements font-size: 100%,
+.entry-meta-header .meta-elements a {
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
   -o-transition: color 0.3s;
@@ -691,7 +710,9 @@ pre .deletion {
   transition: color 0.3s;
   color: #222;
 }
-.entry-meta-header .date a:hover {
+.entry-meta-header .meta-elements .date:hover,
+.entry-meta-header .meta-elements font-size: 100%:hover,
+.entry-meta-header .meta-elements a:hover {
   color: #e61a94;
 }
 .entry-meta-header .commentscount {
