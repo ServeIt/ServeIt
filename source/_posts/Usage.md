@@ -12,4 +12,4 @@ tags:
 ### Notice:
 1. If you add a new game to the ``, rerun the Servit app to import the game in it.
 
-Join the [Community Forum](https://groups.google.com/forum/?hl=zh-CN#!forum/)serveit to get more information !
+Join the [Community Forum](https://groups.google.com/forum/?hl=en#!forum/serveit) to get more information !
